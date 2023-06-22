@@ -4,4 +4,4 @@ Extracted Goodreads user data using developer API and converted the XML data int
 To run it locally, make sure to do the following:
 
 Create a python virtual environmen
-Open notebook.ipynb in JupyerLab
+Open notebook.ipynb in JupyterLab
